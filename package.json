@@ -1,5 +1,5 @@
 {
-  "name": "bs-number-to-words",
+  "name": "@rolltrax/bs-number-to-words",
   "version": "1.0.0",
   "scripts": {
     "build": "bsb -make-world",
